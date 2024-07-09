@@ -12,7 +12,7 @@ React Unsplashe Image is a React application for searching various photos based 
 
 ## Demo
 
-You can see a live demo of the application [here](https://668ba1dcabe78aa711b45f65--dedi-react-color-generator-v1.netlify.app/).
+You can see a live demo of the application [here](https://668cdd0926622a45b7e79f4d--react-unsplash-image.netlify.app/).
 
 ## Features
 
